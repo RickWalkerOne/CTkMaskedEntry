@@ -51,3 +51,7 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://opensource.org/license/mit/)
+
+## Acknowledgements
+
+Thank you to [Max Morais](https://gist.github.com/MaxMorais/5388218), my code is based in his implementation in Tkinter.
